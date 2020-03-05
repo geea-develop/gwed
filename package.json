@@ -28,7 +28,7 @@
     "pluralize": "^5.1.0",
     "popper.js": "^1.12.9",
     "signal-exit": "^3.0.2",
-    "vue": "2.3.4",
+    "vue": "2.6.11",
     "vue-router": "^2.8.1"
   },
   "dependencies": {
