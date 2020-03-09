@@ -19,7 +19,7 @@
         "maatwebsite/excel": "2.1.30",
         "mockery/mockery": "0.9.11",
         "moloquent/moloquent": "0.4",
-        "phpunit/phpunit": "5.7.27"
+        "phpunit/phpunit": "9.0.1"
     },
     "require-dev": {
 
