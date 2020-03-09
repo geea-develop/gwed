@@ -13,7 +13,7 @@
         "laracasts/flash": "3.1",
         "laravel/framework": "5.8.37",
         "laravel/passport": "3.0.2",
-        "laravel/tinker": "1.0.10",
+        "laravel/tinker": "2.2.0",
         "laravelcollective/html": "5.8.1",
         "league/flysystem-aws-s3-v3": "1.0.24",
         "maatwebsite/excel": "2.1.30",
