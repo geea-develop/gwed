@@ -14,7 +14,7 @@
         "laravel/framework": "7.1.0",
         "laravel/passport": "8.4.1",
         "laravel/tinker": "2.2.0",
-        "laravelcollective/html": "5.8.1",
+        "laravelcollective/html": "6.1.0",
         "league/flysystem-aws-s3-v3": "1.0.24",
         "maatwebsite/excel": "2.1.30",
         "mockery/mockery": "0.9.11",
