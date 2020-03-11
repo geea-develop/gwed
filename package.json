@@ -32,6 +32,6 @@
     "vue-router": "3.1.6"
   },
   "dependencies": {
-    "vue2-simplert": "0.8.0"
+    "vue2-simplert": "1.0.0"
   }
 }
