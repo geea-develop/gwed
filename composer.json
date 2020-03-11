@@ -16,7 +16,7 @@
         "laravel/tinker": "2.2.0",
         "laravelcollective/html": "6.1.0",
         "league/flysystem-aws-s3-v3": "1.0.24",
-        "maatwebsite/excel": "2.1.30",
+        "maatwebsite/excel": "3.1.19",
         "mockery/mockery": "0.9.11",
         "moloquent/moloquent": "0.4",
         "phpunit/phpunit": "5.7.27"
